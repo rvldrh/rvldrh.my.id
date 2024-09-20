@@ -89,7 +89,7 @@ function countUp() {
 
 var mySwiper = new Swiper(".swiper-container", {
   speed: 1100,
-  slidesPerView: 1,
+  slidesPerView: 3,
   loop: true,
   autoplay: {
     delay: 5000,

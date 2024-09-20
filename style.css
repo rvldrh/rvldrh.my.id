@@ -217,10 +217,6 @@ img {
   font-size: 1rem;
 }
 
-/* End Genral Styles */
-
-/* Header */
-
 header {
   width: 100%;
   background-color: var(--light-three);
@@ -230,8 +226,12 @@ header {
 
 nav {
   width: 100%;
-  position: relative;
-  z-index: 50;
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+  z-index: 50; 
+  background-color: white; 
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
 }
 
 nav .container {
@@ -865,6 +865,7 @@ header .circle {
 
 /* Blog */
 
+
 .blog-wrapper {
   display: flex;
   width: 100%;
@@ -978,6 +979,26 @@ header .circle {
 .testi-content {
   margin-top: 6rem;
 }
+
+.swiper-container {
+  display: flex;
+  overflow: hidden;
+}
+
+.swiper-wrapper {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.swiper-slide {
+  min-width: 300px; /* Atur sesuai dengan lebar slide yang diinginkan */
+  flex-shrink: 0;
+  margin-right: 20px; /* Jarak antar slide */
+}
+
+
+
 
 .reviews {
   overflow: hidden;
