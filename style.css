@@ -983,6 +983,7 @@ header .circle {
 .swiper-container {
   display: flex;
   overflow: hidden;
+  width: 100%;
 }
 
 .swiper-wrapper {
