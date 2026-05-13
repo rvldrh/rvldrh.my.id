@@ -15,13 +15,6 @@
 🔗 [https://rvldrh.my.id](https://rvldrh.my.id)
 
 ---
-
-## 🖼️ Preview
-
-![Preview](./screenshot-desktop.png)
-
----
-
 ## 📋 About
 
 This portfolio website represents my professional identity as a Full Stack Developer.
