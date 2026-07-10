@@ -81,7 +81,7 @@ const experiences: IExperienceItem[] = [
     ],
   },
   {
-    designation: "Software Engineer",
+    designation: "Website Developer",
     company: "PT Berlian Muda Sukses",
     startDate: "Jun 2023",
     isCurrentJob: true,

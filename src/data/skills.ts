@@ -29,21 +29,6 @@ const skills: ISkillListItem[] = [
         level: SkillLevel.Expert,
         icon: "/skills/react.svg",
       },
-      {
-        title: "HTML",
-        level: SkillLevel.Expert,
-        icon: "/skills/html.svg",
-      },
-      {
-        title: "CSS",
-        level: SkillLevel.Intermediate,
-        icon: "/skills/css.svg",
-      },
-      {
-        title: "Redux Toolkit",
-        level: SkillLevel.Expert,
-        icon: "/skills/redux.svg",
-      },
     ],
   },
   {
@@ -74,11 +59,11 @@ const skills: ISkillListItem[] = [
         level: SkillLevel.Intermediate,
         icon: "/skills/mongodb.svg",
       },
-      {
-        title: "PostgreSQL",
-        level: SkillLevel.Intermediate,
-        icon: "/skills/postgresql.svg",
-      },
+      // {
+      //   title: "PostgreSQL",
+      //   level: SkillLevel.Intermediate,
+      //   icon: "/skills/postgresql.svg",
+      // },
       {
         title: "MySQL",
         level: SkillLevel.Beginner,

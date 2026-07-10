@@ -36,9 +36,6 @@ export default function CVPage() {
                     rvldrh.my.id
                   </a>
                 </p>
-                <p>
-                  📍 JL La Sucipto XXII, Pandanwangi, Blimbing, Malang
-                </p>
               </div>
             </div>
           </div>
@@ -50,16 +47,16 @@ export default function CVPage() {
             </h2>
             <div className="pl-2 text-sm leading-relaxed">
               <p>
-              Web Developer with hands-on experience in building responsive websites and web applications
+                Web Developer with hands-on experience in building responsive websites and web applications
               </p>
               <p>
-              using JavaScript, React.js, Next.js, and Node.js. Skilled in both front-end and back-end development
+                using JavaScript, React.js, Next.js, and Node.js. Skilled in both front-end and back-end development
               </p>
               <p>
-              with internship and mentoring experience. Highly motivated to grow as a full-stack developer
+                with internship and mentoring experience. Highly motivated to grow as a full-stack developer
               </p>
               <p>
-              and contribute to impactful projects.
+                and contribute to impactful projects.
               </p>
             </div>
           </section>
@@ -72,11 +69,11 @@ export default function CVPage() {
             <ul className="pl-4 list-disc space-y-2 text-sm">
               <li>
                 <span className="font-semibold">Universitas Brawijaya</span> (2025–now)
-                <div className="pl-4">- S1 Teknologi Informasi (FILKOM)</div>
+                <div className="pl-4">- Bachelor of Information Technology (FILKOM)</div>
               </li>
               <li>
                 <span className="font-semibold">SMK Telkom Malang</span> (2022–2025)
-                <div className="pl-4">- Software Engineering (RPL)</div>
+                <div className="pl-4">- Software Engineering </div>
               </li>
             </ul>
           </section>
@@ -92,10 +89,10 @@ export default function CVPage() {
                   Website Developer – PT. Berlian Muda Sukses (2022–Present)
                 </span>
                 <div className="pl-4">
-                - Built and maintained company profile website and Daily Management System (DMS).
+                  - Built and maintained company profile website and Daily Management System (DMS).
                 </div>
                 <div className="pl-4">
-                - Improved website performance and ensured responsive design.
+                  - Improved website performance and ensured responsive design.
                 </div>
               </li>
               <li>
