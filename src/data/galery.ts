@@ -1,6 +1,20 @@
 export const galleryItems = [
   {
     type: "video",
+    src: "/gallery/project/braciate-coming-soon.mp4",
+    alt: "Demo Video of E-Commerce App",
+    title: "Braciate",
+    description: "A demo video of Braciate Coming Soon Page.",
+  },
+  {
+    type: "video",
+    src: "/gallery/project/braciate-landing.mp4",
+    alt: "Demo Video of Braciate Landing Page",
+    title: "Braciate",
+    description: "A demo video of Braciate Landing Page.",
+  },
+  {
+    type: "video",
     src: "/gallery/project/final.mp4",
     alt: "Demo Video of E-Commerce App",
     title: "E-Commerce App",
